@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MatchingDemoActivity!</string>
+    <string name="app_name">Matching Game</string>
+    <item type="id" name="imageViewID" format="integer">0</item>
+    <item type="id" name="done" format="integer">1</item>
+    <item type="id" format="integer" name="blinded">2</item>
+    <item type="id" name="icon"/>
+    <item name="isCovered" type="id"/>
+
+</resources>
